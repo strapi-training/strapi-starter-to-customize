@@ -1,0 +1,16 @@
+{
+  "name": "strapi-template-to-customize",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./server.js",
+    "develop": "NODE_ENV=develop node ./server.js"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "hbs": "~4.0.4",
+    "morgan": "~1.9.1"
+  }
+}
