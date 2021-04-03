@@ -60,8 +60,8 @@ yarn create strapi-starter  <new_project_folder_name>  https://github.com/<your_
 ## Convenient Checklist
 Use this checklist as you are creating and customizing your dev team's strapi starter: 
 - [X] Visit and watch [strapi.training](https://strapi.training) (TBD) video
-- [ ] [Ensure Github repo is public](#%E2%9D%97%EF%B8%8F-publicly-accessible-repo-on-github)
-- [ ] Have your [`start.json` in the root folder](#%E2%9D%97%EF%B8%8F-starterjson-file)
+- [ ] [Ensure Github repo is public](#%EF%B8%8F-publicly-accessible-repo)
+- [ ] Have your [`start.json` in the root folder](#%EF%B8%8F-starterjson-file)
     - [ ] Ensure that the `template` node points to your, respective, strapi template repo. (`template` node is, of course, in the `start.json`) 
-- [ ] [Modify or replace the `starter` folder](#%E2%9D%97%EF%B8%8F-starter-folder)
+- [ ] [Modify or replace the `starter` folder](#%EF%B8%8F-starter-folder)
 
