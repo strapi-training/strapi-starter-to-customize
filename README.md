@@ -1,4 +1,4 @@
-# strapi-template-to-customize
+# strapi-starter-to-customize
 
 This repo is to be used as boilerplate code for creating and customizing a [strapi starter](https://strapi.io/blog/announcing-the-strapi-starter-cli) for your dev team.  
 
