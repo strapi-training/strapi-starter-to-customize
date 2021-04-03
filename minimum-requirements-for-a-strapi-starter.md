@@ -81,4 +81,4 @@ Use this checklist as you are creating and customizing your dev team's strapi st
 - [ ] [Modify or replace the `starter` folder](#%EF%B8%8F-starter-folder)
 - [ ] Have your [`start.json` in the root folder](#%EF%B8%8F-starterjson-file)
     - [ ] Ensure that the `template` node points to your, respective, strapi template repo. (`template` node is, of course, in the `start.json`) 
-- [ ] [Ensure Respective Strapi Template Exists](tba)
+- [ ] [Ensure Respective Strapi Template Exists](#%EF%B8%8F-respective-strapi-template-exists)
