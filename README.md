@@ -18,4 +18,7 @@ Please note that you can, however, replace the project in the `starter` folder f
 That said, there is nothing to say that you can't also use it as a starting point for you dev team's needs. This is completely up to you! 😉
 
 # Misc Notes
-The code in the `starter` folder was modified, but initially generated with [Express Generator](https://www.npmjs.com/package/express-generator).
+* The code in the `starter` folder was modified, but initially generated with [Express Generator](https://www.npmjs.com/package/express-generator).
+* Minimum requirements for any strapi starter are listed [here](minimum-requirements-for-a-strapi-starter.md).
+    * Includes a checklist to use for when you are customizing a strapi starter for your dev team. 🙌
+
