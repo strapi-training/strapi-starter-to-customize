@@ -69,11 +69,6 @@ Now, when we use our strapi starter on the command line, we could type something
 yarn create strapi-starter  <new_project_folder_name>  <your_github_org_or_user>/my-express-app
 ```
 
-instead of something like:
-
-```
-yarn create strapi-starter  <new_project_folder_name>  https://github.com/<your_github_org_or_user>/my-express-app
-```
 ## Convenient Checklist
 Use this checklist as you are creating and customizing your dev team's strapi starter: 
 - [X] Visit and watch [strapi.training](https://strapi.training) (TBD) video
