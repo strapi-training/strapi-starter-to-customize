@@ -39,7 +39,7 @@ Its contents are simply:
 
 where `<url_to_your_strapi_template_repo>` can also be the shortcut name equivalent (instead of the url). 
 
-See (link TBA) for details on what a shortcut name is for a strapi template.
+See this video (video link coming soon) for details on what a shortcut name is for a strapi template.
 
 ## ❗️ Respective Strapi Template Exists
 
