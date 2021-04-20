@@ -7,20 +7,20 @@
   <body>
     <h1>{{title}}</h1>
     <p>Welcome! 👋</p>
-    <p>This web app consumes the <a href="http://localhost:1337/admin">local strapi API</a> to display any users defined in the strapi admin.</p>
+    <p>This web app consumes the <a href="http://localhost:1337">local strapi API</a> to display any siteVisitors defined in the strapi admin.</p>
     <div>
-      {{#if users}}
-        <h2>Users retrieved from local strapi API</h2>
-        {{#each users }}
-            <h3>{{ this.username }}</h3>
+      {{#if siteVisitors}}
+        <h2>Site Visitors retrieved from local strapi API</h2>
+        {{#each siteVisitors }}
+            <h3>{{ this.name }}</h3>
             <p>{{this.email}}</p>
         {{/each}}
       {{else}}
-        <h3>Local strapi API returned no users at this time.</h3>
+        <h3>Local strapi API returned no siteVisitors at this time.</h3>
         <ul>
           <li>Make sure your strapi API is running locally.</li>
-          <li>Make sure the users content type, in the strapi api app, has permission to return data</li>
-          <li>Try adding users at: <a href="http://localhost:1337/admin">http://localhost:1337/admin</a></li>
+          <li>Make sure the siteVisitors content type, in the strapi api app, has permission to return data</li>
+          <li>Try adding siteVisitors at: <a href="http://localhost:1337/admin">http://localhost:1337/admin</a></li>
         </ul>
       {{/if}}
     </div>
