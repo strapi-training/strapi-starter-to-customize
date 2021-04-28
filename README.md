@@ -4,6 +4,8 @@
 
 Its purpose is for creating and customizing a [strapi starter](https://strapi.io/blog/announcing-the-strapi-starter-cli) for your dev team.
 
+ℹ️  There is a companion, strapi training, [video series](https://twitter.com/monico_moreno/status/1386834033179602946) with which this repo corresponds.
+
 (Please see benefits of strapi starters in [this video series](https://strapi.training/videos/intro-to-auxiliary-benefits-to-strapi-starters), which goes over auxiliary benefits like: R&D, prototyping, and proofs of concept.)
 
 # Customization Instructions
