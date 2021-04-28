@@ -1,6 +1,6 @@
 # strapi-starter-to-customize
 
-👉 This repo is to be used as boilerplate code.
+👉 This repo is to be used as boilerplate code.  Here is the companion [video series announcement](https://twitter.com/monico_moreno/status/1386834033179602946). 
 
 Its purpose is for creating and customizing a [strapi starter](https://strapi.io/blog/announcing-the-strapi-starter-cli) for your dev team.
 
